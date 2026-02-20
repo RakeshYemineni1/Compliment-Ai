@@ -2,7 +2,7 @@ import OpenAI from "openai";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const API_KEYS = {
-  gemini: "AIzaSyA3MAp9TXsOps_RMp2Pu0B3i8HL7DSStbc",
+  gemini: "",
   openai: "YOUR_OPENAI_KEY_HERE"
 };
 
